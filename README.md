@@ -12,8 +12,8 @@ The included Jupyter Notebook (`Motion_Planning/Occupancy_map_generation.ipynb`)
 - Updating a probabilistic occupancy grid map with the **log-odds** method.
 - Visualizing:
   - The **true map** with robot trajectory.  
-    [![True Map Demo]()](assets/videos/true_map.mp4)
+    [![True Map Demo]()](assets/videos/true_map.gif)
   - The **inverse model** probability map.
-    [![Inver Model Demo]()](assets/videos/inverse_probability_model.mp4)
+    [![Inver Model Demo]()](assets/videos/inverse_probability_model.gif)
   - The **belief map** as the robot explores.
-    [![Belief Map Demo]()](assets/videos/belief_map.mp4)
+    [![Belief Map Demo]()](assets/videos/belief_map.gif)
