@@ -11,9 +11,9 @@ The included Jupyter Notebook (`Motion_Planning/Occupancy_map_generation.ipynb`)
 - Using a LiDAR-based **inverse measurement model** to estimate cell occupancy.
 - Updating a probabilistic occupancy grid map with the **log-odds** method.
 - Visualizing:
-  - The **true map** with robot trajectory.  
-    [![True Map Demo]()](assets/videos/true_map.gif)
+  - The **true map** with robot trajectory.
+  ![True Map Demo](assets/videos/true_map.gif)
   - The **inverse model** probability map.
-    [![Inver Model Demo]()](assets/videos/inverse_probability_model.gif)
+  ![Inverse Model Demo](assets/videos/inverse_probability_model.gif)
   - The **belief map** as the robot explores.
-    [![Belief Map Demo]()](assets/videos/belief_map.gif)
+   ![Belief Map Demo](assets/videos/belief_map.gif)
